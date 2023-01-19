@@ -1,5 +1,13 @@
 # Scala-text-editor
 Scala text editor
+Tested on scala 2.13
+
+To compile:
+scalac *.scala
+To run:
+scala UndoableEditor
+or, for editor without undo,
+scala Editor
 
 Functionality:
 
