@@ -6,8 +6,12 @@ To compile:
 scalac *.scala
 To run:
 scala UndoableEditor
+
 or, for editor without undo,
+
 scala Editor
+
+///////////////////////////
 
 Functionality:
 
